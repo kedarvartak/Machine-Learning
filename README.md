@@ -6,7 +6,7 @@ This repository contains code and notes related to various machine learning conc
 
 - **Introduction to Machine Learning**
  - Linear Regression for 1 dimension data ( 1 independant and 1 dependant variable each )
-
+ - Linear Regression for 2 dimension data ( 2 independant and 1 dependant variable each, 3d plot )
 ## How to Use
 
 Each concept is explained in a Jupyter Notebook with code examples and explanations. You can navigate through the notebooks to learn and practice the concepts.
